@@ -1,0 +1,14 @@
+C:\Users\joshu\source\repos\TDD_Calculator\TDD_Calculator\bin\Debug\netcoreapp2.1\TDD_Calculator.deps.json
+C:\Users\joshu\source\repos\TDD_Calculator\TDD_Calculator\bin\Debug\netcoreapp2.1\TDD_Calculator.runtimeconfig.json
+C:\Users\joshu\source\repos\TDD_Calculator\TDD_Calculator\bin\Debug\netcoreapp2.1\TDD_Calculator.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\TDD_Calculator\TDD_Calculator\bin\Debug\netcoreapp2.1\TDD_Calculator.dll
+C:\Users\joshu\source\repos\TDD_Calculator\TDD_Calculator\obj\Debug\netcoreapp2.1\TDD_Calculator.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\TDD_Calculator\TDD_Calculator\obj\Debug\netcoreapp2.1\TDD_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\TDD_Calculator\TDD_Calculator\obj\Debug\netcoreapp2.1\TDD_Calculator.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\TDD_Calculator\TDD_Calculator\obj\Debug\netcoreapp2.1\TDD_Calculator.AssemblyInfo.cs
+C:\Users\joshu\source\repos\TDD_Calculator\TDD_Calculator\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\joshu\source\repos\TDD_Calculator\TDD_Calculator\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\joshu\source\repos\TDD_Calculator\TDD_Calculator\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\joshu\source\repos\TDD_Calculator\TDD_Calculator\bin\Debug\netcoreapp2.1\TDD_Calculator.pdb
+C:\Users\joshu\source\repos\TDD_Calculator\TDD_Calculator\obj\Debug\netcoreapp2.1\TDD_Calculator.dll
+C:\Users\joshu\source\repos\TDD_Calculator\TDD_Calculator\obj\Debug\netcoreapp2.1\TDD_Calculator.pdb

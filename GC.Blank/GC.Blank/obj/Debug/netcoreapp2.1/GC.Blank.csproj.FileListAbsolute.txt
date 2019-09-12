@@ -1,0 +1,11 @@
+C:\Users\joshu\source\repos\GC.Blank\GC.Blank\bin\Debug\netcoreapp2.1\GC.Blank.deps.json
+C:\Users\joshu\source\repos\GC.Blank\GC.Blank\bin\Debug\netcoreapp2.1\GC.Blank.runtimeconfig.json
+C:\Users\joshu\source\repos\GC.Blank\GC.Blank\bin\Debug\netcoreapp2.1\GC.Blank.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\GC.Blank\GC.Blank\bin\Debug\netcoreapp2.1\GC.Blank.dll
+C:\Users\joshu\source\repos\GC.Blank\GC.Blank\bin\Debug\netcoreapp2.1\GC.Blank.pdb
+C:\Users\joshu\source\repos\GC.Blank\GC.Blank\obj\Debug\netcoreapp2.1\GC.Blank.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\GC.Blank\GC.Blank\obj\Debug\netcoreapp2.1\GC.Blank.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\GC.Blank\GC.Blank\obj\Debug\netcoreapp2.1\GC.Blank.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\GC.Blank\GC.Blank\obj\Debug\netcoreapp2.1\GC.Blank.AssemblyInfo.cs
+C:\Users\joshu\source\repos\GC.Blank\GC.Blank\obj\Debug\netcoreapp2.1\GC.Blank.dll
+C:\Users\joshu\source\repos\GC.Blank\GC.Blank\obj\Debug\netcoreapp2.1\GC.Blank.pdb

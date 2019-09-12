@@ -1,0 +1,11 @@
+C:\Users\joshu\source\repos\SplitMethod\SplitMethod\bin\Debug\netcoreapp2.1\SplitMethod.deps.json
+C:\Users\joshu\source\repos\SplitMethod\SplitMethod\bin\Debug\netcoreapp2.1\SplitMethod.runtimeconfig.json
+C:\Users\joshu\source\repos\SplitMethod\SplitMethod\bin\Debug\netcoreapp2.1\SplitMethod.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\SplitMethod\SplitMethod\bin\Debug\netcoreapp2.1\SplitMethod.dll
+C:\Users\joshu\source\repos\SplitMethod\SplitMethod\bin\Debug\netcoreapp2.1\SplitMethod.pdb
+C:\Users\joshu\source\repos\SplitMethod\SplitMethod\obj\Debug\netcoreapp2.1\SplitMethod.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\SplitMethod\SplitMethod\obj\Debug\netcoreapp2.1\SplitMethod.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\SplitMethod\SplitMethod\obj\Debug\netcoreapp2.1\SplitMethod.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\SplitMethod\SplitMethod\obj\Debug\netcoreapp2.1\SplitMethod.AssemblyInfo.cs
+C:\Users\joshu\source\repos\SplitMethod\SplitMethod\obj\Debug\netcoreapp2.1\SplitMethod.dll
+C:\Users\joshu\source\repos\SplitMethod\SplitMethod\obj\Debug\netcoreapp2.1\SplitMethod.pdb

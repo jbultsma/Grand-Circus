@@ -1,0 +1,8 @@
+C:\Users\joshu\source\repos\FizzBuzzKata\FizzBuzzKata\bin\Debug\netcoreapp2.1\FizzBuzzKata.deps.json
+C:\Users\joshu\source\repos\FizzBuzzKata\FizzBuzzKata\bin\Debug\netcoreapp2.1\FizzBuzzKata.runtimeconfig.json
+C:\Users\joshu\source\repos\FizzBuzzKata\FizzBuzzKata\bin\Debug\netcoreapp2.1\FizzBuzzKata.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\FizzBuzzKata\FizzBuzzKata\bin\Debug\netcoreapp2.1\FizzBuzzKata.dll
+C:\Users\joshu\source\repos\FizzBuzzKata\FizzBuzzKata\obj\Debug\netcoreapp2.1\FizzBuzzKata.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\FizzBuzzKata\FizzBuzzKata\obj\Debug\netcoreapp2.1\FizzBuzzKata.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\FizzBuzzKata\FizzBuzzKata\obj\Debug\netcoreapp2.1\FizzBuzzKata.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\FizzBuzzKata\FizzBuzzKata\obj\Debug\netcoreapp2.1\FizzBuzzKata.AssemblyInfo.cs

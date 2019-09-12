@@ -1,0 +1,11 @@
+C:\Users\joshu\source\repos\pigLatinBreakout\pigLatinBreakout\bin\Debug\netcoreapp2.1\pigLatinBreakout.deps.json
+C:\Users\joshu\source\repos\pigLatinBreakout\pigLatinBreakout\bin\Debug\netcoreapp2.1\pigLatinBreakout.runtimeconfig.json
+C:\Users\joshu\source\repos\pigLatinBreakout\pigLatinBreakout\bin\Debug\netcoreapp2.1\pigLatinBreakout.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\pigLatinBreakout\pigLatinBreakout\bin\Debug\netcoreapp2.1\pigLatinBreakout.dll
+C:\Users\joshu\source\repos\pigLatinBreakout\pigLatinBreakout\bin\Debug\netcoreapp2.1\pigLatinBreakout.pdb
+C:\Users\joshu\source\repos\pigLatinBreakout\pigLatinBreakout\obj\Debug\netcoreapp2.1\pigLatinBreakout.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\pigLatinBreakout\pigLatinBreakout\obj\Debug\netcoreapp2.1\pigLatinBreakout.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\pigLatinBreakout\pigLatinBreakout\obj\Debug\netcoreapp2.1\pigLatinBreakout.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\pigLatinBreakout\pigLatinBreakout\obj\Debug\netcoreapp2.1\pigLatinBreakout.AssemblyInfo.cs
+C:\Users\joshu\source\repos\pigLatinBreakout\pigLatinBreakout\obj\Debug\netcoreapp2.1\pigLatinBreakout.dll
+C:\Users\joshu\source\repos\pigLatinBreakout\pigLatinBreakout\obj\Debug\netcoreapp2.1\pigLatinBreakout.pdb

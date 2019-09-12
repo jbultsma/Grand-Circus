@@ -1,0 +1,11 @@
+C:\Users\joshu\source\repos\RobotSIm\RobotSIm\bin\Debug\netcoreapp2.1\RobotSIm.deps.json
+C:\Users\joshu\source\repos\RobotSIm\RobotSIm\bin\Debug\netcoreapp2.1\RobotSIm.runtimeconfig.json
+C:\Users\joshu\source\repos\RobotSIm\RobotSIm\bin\Debug\netcoreapp2.1\RobotSIm.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\RobotSIm\RobotSIm\bin\Debug\netcoreapp2.1\RobotSIm.dll
+C:\Users\joshu\source\repos\RobotSIm\RobotSIm\bin\Debug\netcoreapp2.1\RobotSIm.pdb
+C:\Users\joshu\source\repos\RobotSIm\RobotSIm\obj\Debug\netcoreapp2.1\RobotSIm.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\RobotSIm\RobotSIm\obj\Debug\netcoreapp2.1\RobotSIm.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\RobotSIm\RobotSIm\obj\Debug\netcoreapp2.1\RobotSIm.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\RobotSIm\RobotSIm\obj\Debug\netcoreapp2.1\RobotSIm.AssemblyInfo.cs
+C:\Users\joshu\source\repos\RobotSIm\RobotSIm\obj\Debug\netcoreapp2.1\RobotSIm.dll
+C:\Users\joshu\source\repos\RobotSIm\RobotSIm\obj\Debug\netcoreapp2.1\RobotSIm.pdb
