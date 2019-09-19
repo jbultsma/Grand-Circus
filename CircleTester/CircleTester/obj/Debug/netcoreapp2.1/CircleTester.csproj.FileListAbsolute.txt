@@ -1,0 +1,11 @@
+C:\Dev\Grand Circus\CircleTester\CircleTester\bin\Debug\netcoreapp2.1\CircleTester.deps.json
+C:\Dev\Grand Circus\CircleTester\CircleTester\bin\Debug\netcoreapp2.1\CircleTester.runtimeconfig.json
+C:\Dev\Grand Circus\CircleTester\CircleTester\bin\Debug\netcoreapp2.1\CircleTester.runtimeconfig.dev.json
+C:\Dev\Grand Circus\CircleTester\CircleTester\bin\Debug\netcoreapp2.1\CircleTester.dll
+C:\Dev\Grand Circus\CircleTester\CircleTester\bin\Debug\netcoreapp2.1\CircleTester.pdb
+C:\Dev\Grand Circus\CircleTester\CircleTester\obj\Debug\netcoreapp2.1\CircleTester.csprojAssemblyReference.cache
+C:\Dev\Grand Circus\CircleTester\CircleTester\obj\Debug\netcoreapp2.1\CircleTester.csproj.CoreCompileInputs.cache
+C:\Dev\Grand Circus\CircleTester\CircleTester\obj\Debug\netcoreapp2.1\CircleTester.AssemblyInfoInputs.cache
+C:\Dev\Grand Circus\CircleTester\CircleTester\obj\Debug\netcoreapp2.1\CircleTester.AssemblyInfo.cs
+C:\Dev\Grand Circus\CircleTester\CircleTester\obj\Debug\netcoreapp2.1\CircleTester.dll
+C:\Dev\Grand Circus\CircleTester\CircleTester\obj\Debug\netcoreapp2.1\CircleTester.pdb
