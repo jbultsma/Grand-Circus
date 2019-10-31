@@ -16,15 +16,27 @@ namespace StarWarsAPI.Controllers
         // This method calls and returns the response from our API
         public string CallStarWarsAPI(int Id)
         {
-            HttpWebRequest request = WebRequest.CreateHttp("https://swapi.co/api/people/" + Id);
-            HttpWebResponse response = (HttpWebResponse)request.GetResponse();
+            HttpWebRequest requestOne = WebRequest.CreateHttp("https://swapi.co/api/people/" + Id);
+            HttpWebResponse responseOne = (HttpWebResponse)requestOne.GetResponse();
 
             // This will convert the response to a string
-            StreamReader rd = new StreamReader(response.GetResponseStream());
-
+            StreamReader rd = new StreamReader(responseOne.GetResponseStream());
+            
             string APIText = rd.ReadToEnd();
 
             return APIText;
+        }
+
+        public string CallSWAPIPlanets(int Id)
+        {
+            HttpWebRequest requestTwo = WebRequest.CreateHttp("https://swapi.co/api/planets/" + Id);
+            HttpWebResponse responseTwo = (HttpWebResponse)requestTwo.GetResponse();
+
+            StreamReader rdTwo = new StreamReader(responseTwo.GetResponseStream());
+            string APITextTwo = rdTwo.ReadToEnd();
+
+            return APITextTwo;
+
         }
 
         public JToken ParseSWAPI (string text)
@@ -61,7 +73,7 @@ namespace StarWarsAPI.Controllers
 
         public IActionResult ResultPlanet(int Id)
         {
-            string text = CallStarWarsAPI(Id);
+            string text = CallSWAPIPlanets(Id);
             JToken t = JToken.Parse(text);
             Planets p = new Planets(t);
             
